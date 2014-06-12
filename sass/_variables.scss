@@ -1,0 +1,34 @@
+////////////////////////
+// Color palette
+////////////////////////
+   $orange: #cc6633; // Dark Orange
+   $white: #ffffff; // White
+   $black: #000000; // Black
+
+////////////////////////
+// Media Queries
+////////////////////////
+
+$phone: 48.00em; //768px
+
+$tablet: 64.000em; //1024px
+
+$desktop: 75.000em; //1200px
+
+
+//Phone
+@media only screen and (max-width: $phone) {
+
+}
+
+//Tablet
+@media only screen and (min-width: $phone) and (max-width: $tablet) {
+
+
+}
+
+//Desktop
+@media only screen and (min-width: $tablet) and (max-width: $desktop) {
+
+
+}

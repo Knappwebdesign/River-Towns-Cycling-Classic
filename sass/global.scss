@@ -1,0 +1,568 @@
+//////////////////////////////////////
+// Imports
+//////////////////////////////////////
+@import "_reset.scss"; //Reset
+@import "_normalize.scss"; //normalize
+@import "_lemonade.scss"; //Grid
+@import "_variables.scss"; //Variables
+@import "_typography.scss"; //Typography
+@import "_navigation.scss"; //Desktop navigation
+@import "_mobile-navigation.scss"; //Mobile Navigation Styles
+@import "_sponsors.scss"; // Sponsor slider css
+@import "_lightbox.scss"; // Lightbox for race images
+
+//////////////////////////////////////
+// *, html, body
+//////////////////////////////////////
+
+* {
+
+   margin: 0;
+   padding: 0;
+
+}
+
+html, body {
+
+   min-height: 100%;
+   background: $white;
+
+}
+
+//////////////////////////////////////
+// Container and Wrapper
+//////////////////////////////////////
+
+#wrap {
+
+   height: 100%;
+   min-height: 100%;
+   margin: 0 auto;
+
+}
+
+.container {
+
+   max-width: 1024px;
+   margin: 0 auto;
+
+}
+
+//////////////////////////////////////
+// Contact Bar
+//////////////////////////////////////
+.contact-bar {
+
+   background: $orange;
+   width: 100%;
+
+   @media all and (max-width: $phone) {
+
+      display: none;
+
+   }
+
+}
+
+//////////////////////////////////////
+// Header
+//////////////////////////////////////
+header {
+
+   background: $white;
+   height: 70px;
+
+   .logo {
+
+      height: 60px;
+
+   }
+}
+
+//////////////////////////////////////
+// Signup bar
+//////////////////////////////////////
+.signup {
+
+   background: $white;
+   height: 40px;
+   border-top: 1px solid $orange;
+   border-bottom: 1px solid $orange;
+
+   h1 {
+
+      @include main-font-header;
+      font-size: 22px;
+      margin-top: 1%;
+      float: left;
+      margin-left: 1%;
+
+   }
+
+   p {
+
+      @include content;
+      font-size: 18px;
+      color: $orange;
+      float: right;
+      margin-top: 0;
+      margin-right: 1%;
+      margin-top: .5%;
+
+      @media all and (max-width: $phone) {
+
+         display: none;
+
+      }
+
+      a {
+
+         text-decoration: underline;
+         color: $orange;
+
+      }
+
+      a:visited {
+
+         text-decoration: none;
+         color: $orange;
+
+      }
+   }
+
+}
+
+//////////////////////////////////////
+// Hero
+//////////////////////////////////////
+.hero {
+
+   width: 100%;
+   background: $orange;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   overflow: hidden;
+   z-index: 1;
+
+   @media all and (max-width: $phone) {
+
+      height: 150px;
+
+   }
+
+   img {
+
+      background: $black;
+      width: 100%;
+
+      @media all and (max-width: $phone) {
+
+         height: 130px;
+
+      }
+
+   }
+
+}
+//////////////////////////////////////
+// Follow Bar
+//////////////////////////////////////
+.follow {
+
+   background: $orange;
+   height: 40px;
+   width: 100%;
+
+   p {
+
+      text-align: center;
+      @include content;
+      color: $white;
+      font-size: 20px;
+      margin-top: -1%;
+      line-height: 1.7;
+
+   }
+
+   a.button.transparent {
+
+      background-color: transparent;
+      color: #fff;
+      -webkit-box-shadow: inset 0 0 0 1px #fff;
+      -moz-box-shadow: inset 0 0 0 1px #fff;
+      box-shadow: inset 0 0 0 1px #fff;
+      padding: 11px 14px;
+      margin-left: 10px;
+      margin-bottom: 10px;
+      border-radius: 2px;
+      outline: 0px;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 1em;
+      text-decoration: none;
+
+   }
+
+   a.button.transparent:hover {
+
+      background-color: $white;
+      color: $orange;
+
+   }
+
+   @media all and (max-width: $phone) {
+
+      display: none;
+
+   }
+
+}
+
+//////////////////////////////////////
+// divider
+//////////////////////////////////////
+.divider {
+
+   margin-top: 30px;
+   margin-bottom: 10px;
+   height: 1px;
+   width: 100%;
+   position: relative;
+   clear: both;
+   float: left;
+   display: block;
+   background-color: #dadada;
+
+}
+
+.divider:after {
+
+   content: "";
+   width: 63px;
+   background-color: $orange;
+   height: 1px;
+   position: absolute;
+   bottom: 0;
+   left: 0;
+
+}
+
+//////////////////////////////////////
+// content
+//////////////////////////////////////
+
+.content {
+
+   width: 100%;
+   height: auto;
+   margin: 0 auto;
+
+   h1 {
+
+      @include main-font-header;
+      text-align: center;
+      width: 90%;
+      margin: 0 auto;
+      line-height: 1.5;
+
+      @media only screen and (max-width: $phone) {
+
+         font-size: 24px;
+
+      }
+
+   }
+
+   h2 {
+
+      @include main-font-header;
+      font-size: 22px;
+
+   }
+
+   p {
+
+      @include content;
+      line-height: 1.7;
+      width: 85%;
+      padding-top: .5%;
+      padding-bottom: .5%;
+
+      @media all and (max-width: $phone) {
+
+         width: 80%;
+
+      }
+
+      b {
+
+         color: $orange;
+
+      }
+
+      a {
+
+         color: $orange;
+
+      }
+   }
+}
+
+
+//////////////////////////////////////
+// Drop-down
+//////////////////////////////////////
+.drop-down {
+
+   width: 100%;
+   margin: 0 auto;
+   height: 30px;
+
+   h2 {
+
+      text-align: center;
+
+   }
+
+   .fa-chevron-down {
+
+      margin-left: 1%;
+
+   }
+}
+
+//////////////////////////////////////
+// Individual Race content
+//////////////////////////////////////
+.header {
+
+   h1 {
+
+      @include main-font-header;
+      margin-bottom: -2%;
+      float: left;
+
+   }
+
+}
+
+.race-hero {
+
+   width: 100%;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   overflow: hidden;
+
+   img {
+
+      background: $black;
+      width: 100%;
+
+   }
+
+   p {
+
+      @include content;
+      color: $orange;
+      padding-top: .5%;
+
+   }
+
+}
+
+.race-header {
+
+   h1 {
+
+      @include main-font-header;
+      font-size: 24px;
+      float: left;
+
+   }
+
+}
+//////////////////////////////////////
+// races
+//////////////////////////////////////
+.races {
+
+   h1 {
+
+      @include main-font-header;
+
+   }
+
+   h2 {
+
+      @include main-font-header;
+      font-size: 24px;
+
+      @media all and (max-width: $phone) {
+
+         margin-top: 5%;
+         margin-bottom: 5%;
+
+      }
+
+   }
+
+   p {
+
+      @include content;
+      text-align: center;
+      font-size: 18px;
+      padding-bottom: 1%;
+      margin-top: -1%;
+
+   }
+
+   img {
+
+      width: 250px;
+      display: block;
+      margin: 0 auto;
+      margin-top: 3%;
+
+   }
+
+   a {
+
+      color: $orange;
+      text-decoration: none;
+
+   }
+
+   a:visited {
+
+      color: $orange;
+      text-decoration: none;
+
+   }
+
+}
+
+//////////////////////////////////////
+// Sponsors
+//////////////////////////////////////
+.sponsor {
+
+   width: 100%;
+   height: 40px;
+   margin-top: 2%;
+   margin-bottom: -5%;
+
+   h1 {
+
+      @include main-font-header;
+      top: 0;
+      font-size: 21px;
+
+   }
+
+}
+
+//////////////////////////////////////
+// Footer
+//////////////////////////////////////
+footer {
+
+   border-top: 15px solid $orange;
+   background: $white;
+   height: 200px;
+
+   .navigation {
+
+      h1 {
+
+         @include main-font-header;
+         font-size: 24px;
+         float: left;
+
+      }
+
+      ul {
+
+         clear: both;
+         margin: 0 auto;
+
+         li {
+
+            line-height: 1.75;
+            margin-left: 4%;
+
+            a {
+
+               color: $orange;
+               text-decoration: none;
+
+            }
+
+         }
+
+      }
+
+   }
+
+   .copyright {
+
+      width: 80%;
+      margin: 0 auto;
+      margin-top: 2%;
+      border-top: 1px solid $orange;
+
+      h1 {
+
+         @include main-font-header;
+         float: right;
+         font-size: 18px;
+
+      }
+   }
+
+}
+
+.top-of-page-link {
+    display: none;
+    position: fixed;
+    right: 30px;
+    bottom: 50px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 48px;
+    width: 50px;
+    height: 50px;
+    background-color: #333;
+    background-color: rgba(0, 0, 0, .3);
+    color: #fff;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    -webkit-transition: all .1s linear;
+    -moz-transition: all .1s linear;
+    -o-transition: all .1s linear;
+    -ms-transition: all .1s linear;
+    transition: all .1s linear;
+}
+.top-of-page-link:hover {
+    background-color: #2C7EBE;
+}
+
+@media screen and (max-width: $phone) {
+
+   .top-of-page-link {
+       right: 20px;
+       bottom: 50px;
+       text-align: center;
+       font-size: 20px;
+       line-height: 28px;
+       width: 30px;
+       height: 30px;
+       background-color: #333;
+       background-color: rgba(0, 0, 0, .3);
+       color: #fff;
+       -webkit-border-radius: 2px;
+       -moz-border-radius: 2px;
+       border-radius: 2px;
+   }
+
+}
