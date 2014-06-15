@@ -13,7 +13,7 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <h1>Hill Climb</h1>
+            <h1>Hess Field Hill Climb</h1>
          </div>
       </div>
    </div>

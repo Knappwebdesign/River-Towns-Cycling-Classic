@@ -57,7 +57,7 @@
          </div>
          <div class="bit-2">
             <p>You can signup here:
-               <a href="http://www.active.com/danville-pa/cycling/mountain-biking-races/river-towns-cycling-classic-2014" target="_blank">Active.com</a>
+               <a href="bikereg.php" >Bike Reg</a>
             </p>
          </div>
       </div>

@@ -29,7 +29,7 @@
                <a href="hopewell.php">Hopewell Challenge<br />Mountain Bike Race</a>
             </li>
             <li>
-               <a href="hillclimb.php">Hill Climb</a>
+               <a href="hillclimb.php">Hess Field Hill Climb</a>
             </li>
             <li>
                <a href="mountainrides.php">Mountain Rides</a>
@@ -43,18 +43,18 @@
                <a href="meatybeaty.php">Meaty Beaty</a>
             </li>
             <li>
-               <a href="metso.php">MetsoCross</a>
+               <a href="boneshakercyclocross.php">Boneshaker CX</a>
             </li>
          </ul>
       </li>
 
-      <li><a href="granfondo.php">Gran fondo</a>
+      <li><a href="omnium.php">Omnium</a>
          <ul>
             <li>
-               <a href="roadfondo.php">Road</a>
+               <a href="roadomnium.php">King and Queen of the Road</a>
             </li>
             <li>
-               <a href="mountainfondo.php">Mountain</a>
+               <a href="mountainomnium.php">Dirt Deity</a>
             </li>
          </ul>
       </li>
@@ -79,7 +79,13 @@
       <li><a>Overview</a>
          <ul>
             <li>
+               <a href="directions.php">Directions</a>
+            </li>
+            <li>
                <a href="registration.php">Registration</a>
+            </li>
+            <li>
+               <a href="lodgingcamping.php">Lodging/Camping</a>
             </li>
             <li>
                <a href="schedule.php">Schedule Grid</a>
@@ -89,9 +95,6 @@
             </li>
             <li>
                <a href="faqs.php">FAQ's</a>
-            </li>
-            <li>
-               <a href="directions.php">Directions</a>
             </li>
             <li>
                <a href="contact.php">Contact Us</a>

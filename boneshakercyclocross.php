@@ -13,7 +13,7 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <h1>MetsoCross</h1>
+            <h1>Boneshaker CX</h1>
          </div>
       </div>
    </div>
@@ -52,7 +52,24 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <p>Our corporate sponsor and cycling supporter; Metso Minerals, has graciously allowed Organizers to create a race using their property and the adjoining properties of the Danville School District and Cabinetworks industries. By combining these three parcels of land, we can create a 1.07 mile route that combines industrial chic, man-made features, and natural sections for the ultimate terrain test.</p>
+            <p>The Boneshaker was a style of bike created in the late 1800’s.  Back then, it was a novelty, and only rich guys could afford this new and exciting toy called the “bicycle” out of England.  Fortunately for us, A group of wealthy young iron tycoons in the Danville area took a liking to these trendy toys, and decided to have some brought into Danville.  When they arrived, the fellas quickly took to the streets to show-off for the girls (this behavior is still in vogue today).  When the town elders and politicians saw these new fangled machines, they became immediately frightened and deemed them dangerous and irresponsible and banned them from the streets of Danville.</p>
+
+            <p>The newly created bicycle enthusiasts would not be relegated to the dark corners, so instead, they build their own place to ride.  They ripped up some rail road tracks on the now exhausted narrow gauge supply line, sold badges for the membership and created the FIRST IN THE WORLD, RAIL - TRAIL CYCLING CLUB!</p>
+
+            <p>And this is where today you will find the venue for the Boneshaker Cyclocross race!</p>
+
+            <p>The Boneshaker Cyclocross Race is held at the end of Meadow Lane, in Hess Field Park located in Danville, PA - which is just a short 5 minute bike ride away from the Expo area in Danville, PA.  If you are a local, you know that this is the third season for the Boneshaker.  It is held on THE OLDEST RAILS TO TRAILS IN THE WORLD and features a crazy stream crossing, mud, hurtles, steep bike carry sections, and some fast sections of flat, level, railroad bed.</p>
+
+            <p>Fans and support staff are encouraged to hang around at the Pavilion/Start/Finish area, watch the show, or go to anywhere along the route.  Maps will be available to help fans locate areas that are particularly photogenic or where they might see the craziest parts fo the race.</p>
+
+
+            <p>Mechanical support, Hydration, Shelter, Bathrooms, Music and more is all available on location.  Geisinger Sports Medicine Trainers and Doctors are also available to take good care of our riders.</p>
+            <p>Spotters will be located randomely along the course to make sure the race is conduceted fairly and according to the rules.   Winners are determined using a system of laps first, then place.  Most laps, in the shortest time wins.</p>
+         </div>
+         <div class="bit-1">
+            <h2>Start Times</h2>
+            <p><b>Beginners</b> - 4:00 p.m.</p>
+            <p><b>Open</b>- 5:00 p.m.</p>
          </div>
          <div class="bit-1">
             <h2>Categories</h2>

@@ -52,8 +52,8 @@
             </div>
             <!-- MetsoCross -->
             <div class="bit-2">
-               <a href="metso.php"><h2>Metso Cross</h2></a>
-               <a href="metso.php"><img src="img/Cyclocross/Races/Metso.png" alt="MetsoCross Cyclocross Race" /></a>
+               <a href="boneshakercyclocross.php"><h2>Boneshaker CX</h2></a>
+               <a href="boneshakercyclocross.php"><img src="img/Cyclocross/Races/Metso.png" alt="MetsoCross Cyclocross Race" /></a>
             </div>
          </div>
       </div>

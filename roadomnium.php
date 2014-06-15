@@ -13,7 +13,7 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <h1>Road Granfondo</h1>
+            <h1>King and Queen of the Road Omnium</h1>
          </div>
       </div>
    </div>

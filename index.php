@@ -98,8 +98,8 @@
          </div>
          <!-- Gran fondo -->
          <div class="bit-4">
-            <h2><a href="granfondo.php">Omnium</a></h2>
-            <a href="granfondo.php"><img src="img/offerings/Granfondo.png" alt="Granfondo" /></a>
+            <h2><a href="omnium.php">Omnium</a></h2>
+            <a href="omnium.php"><img src="img/offerings/Granfondo.png" alt="Omnium" /></a>
          </div>
       </div>
    </div>

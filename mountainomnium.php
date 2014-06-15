@@ -13,7 +13,7 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <h1>Granfondo</h1>
+            <h1>Dirt Deity</h1>
          </div>
       </div>
    </div>
@@ -27,34 +27,26 @@
    </div>
 </div>
 
-<div class="content">
+<div class="race-hero">
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <p><b>General</b> – Gran Fondo races are about consistency and flexibility. You might not be the best at any one race, but if you can CONSISTENTLY be a top winner in multiple types of races, you can win a Gran Fondo event! It’s a good way to have a second shot at the podium as well as receive a pretty sizable discount on a package or races!</p>
+            <img src="img/Granfondo/Mountain.png" alt="Mountain Granfondo"/>
          </div>
       </div>
    </div>
 </div>
 
-<div class="races">
+<div class="content">
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <!-- Meaty Beaty -->
-            <div class="bit-2">
-               <a href="roadfondo.php"><h2>Road Granfondo</h2></a>
-               <a href="roadfondo.php"><img src="img/offerings/Road.png" alt="Road Bike races" /></a>
-            </div>
-            <!-- MetsoCross -->
-            <div class="bit-2">
-               <a href="mountainfondo.php"><h2>Mountain Granfondo</h2></a>
-               <a href="mountainfondo.php"><img src="img/offerings/Mountain.png" alt="Mountain Bike races" /></a>
-            </div>
+            <p>The races in this “package” were selected because technically, they could all be completed using one mountain bicycle. Is a mountain bike the best bike to use for a cyclocross race? Hell no! But can it be done with some success? You bet’cha! Happens all the time in Central PA! Organizers have hill climb events and cyclocross events scheduled on both Saturday and Sunday. That means that you have some flexibility in regard to how you schedule your race weekend. The only thing you MUST do, is be at the starting line for the Hopewell Challenge Advanced race at the starting time.</p>
          </div>
       </div>
    </div>
 </div>
+
 <!--
 <div class="race-header">
    <div class="container">

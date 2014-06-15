@@ -380,6 +380,13 @@ header {
 
    }
 
+   p {
+
+      @include content;
+      text-align: center;
+      
+   }
+
 }
 //////////////////////////////////////
 // races
