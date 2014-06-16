@@ -57,7 +57,7 @@
 
             <!-- Beer tours -->
             <h2>Beer tours</h2>
-            <p>Old Forge Brewing Company will open it’s door to it’s bottling plant for the first time ever, and give tours of the facility at 10:00 a.m. and 3:00 p.m. on both days. <b>This is a special situation that has never been done before. Space will fill first come first served.</b> I’m sure some sampling will be part of the tour.</p>
+            <p><a href="http://www.oldforgebrewingcompany.com/" target="_blank">Old Forge Brewing Company</a> will open it’s door to it’s bottling plant for the first time ever, and give tours of the facility at 10:00 a.m. and 3:00 p.m. on both days. <b>This is a special situation that has never been done before. Space will fill first come first served.</b> I’m sure some sampling will be part of the tour.</p>
 
             <!-- Gym Tours -->
             <h2>Gym Tours</h2>
@@ -65,7 +65,7 @@
 
             <!-- Demo trucks -->
             <h2>Manufacturers Demo Trucks</h2>
-            <p>TREK is in and others are just making final arrangements and will be announced as they commit. These Demo trucks are the place where the newest technology will be found and where you can try it for yourself. Don’t miss this opportunity to try all the new, cool gear!.</p>
+            <p><a href="http://www.trekbikes.com/faq/questions.php?questionid=141/" target="_blank">TREK</a> is in and others are just making final arrangements and will be announced as they commit. These Demo trucks are the place where the newest technology will be found and where you can try it for yourself. Don’t miss this opportunity to try all the new, cool gear!.</p>
 
             <!-- Vendors -->
             <h2>Vendors</h2>
@@ -77,7 +77,7 @@
 
             <!-- Entertainment -->
             <h2>Entertainment</h2>
-            <p>All the ‘FUN STUFF events happen in the EXPO ARENA. Log pulls, to Demo Derby’s to Kids races, to Cycling Tug-of-War. It’s all there for your enjoyment!</p>
+            <p>All the <a href="http://www.rivertownscyclingclassic.com/funstuff.php" target="_blank">'FUN STUFF'</a> events happen in the EXPO ARENA. Log pulls, to Demo Derby’s to Kids races, to Cycling Tug-of-War. It’s all there for your enjoyment!</p>
 
             <!-- Music -->
             <h2>Music</h2>

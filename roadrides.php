@@ -41,7 +41,7 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <h1>Ride information: Sunday Sept. 7th – 8:00 a.m. – 4:00 p.m.</h1>
+            <h1>Ride information: Saturday Sept. 6th – 8:00 a.m. – 4:00 p.m.</h1>
          </div>
       </div>
    </div>

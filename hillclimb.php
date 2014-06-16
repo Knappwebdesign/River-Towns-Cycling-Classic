@@ -30,9 +30,10 @@
 <div class="race-hero">
    <div class="container">
       <div class="frame">
-         <div class="bit-1">
+         <a href="img/Mountain/Hillclimb/Race-map.png" data-imagelightbox="c">
             <img src="img/Mountain/Hillclimb/Hero.png" alt="Hillclimb Mountain Bike Race"/>
-         </div>
+         </a>
+         <p>Click the image to view the race map</p>
       </div>
    </div>
 </div>
@@ -41,7 +42,8 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <h1>Race information: Saturday Sept. 6th – 8:00 a.m. start</h1>
+            <h1>Race information: Saturday Sept. 6th @ 3:00 p.m. until 6:00 p.m. and </h1>
+            <h1> Sunday Sept. 7th, @ 4:00 p.m. until 6:00 p.m </h1>
          </div>
       </div>
    </div>

@@ -56,7 +56,7 @@
             <!-- Demo Derby -->
             <h2>Demo Derby</h2>
 
-            <p>Participants assemble at the Expo Arena area at the designated time. Spectators make a circle around the participants that is just big enough for them to ride their bikes inside. Every spectator has a front row seat (or nearly front row) for this event. The riders begin to ride inside the circle in a counter clockwise direction. Why “counter clockwise”? Because that’s way more radical than clockwise; that’s why!</p>
+            <p>Participants assemble at the <a href="http://www.rivertownscyclingclassic.com/expo.php" target="_blank">Expo Arena area</a> at the designated time. Spectators make a circle around the participants that is just big enough for them to ride their bikes inside. Every spectator has a front row seat (or nearly front row) for this event. The riders begin to ride inside the circle in a counter clockwise direction. Why “counter clockwise”? Because that’s way more radical than clockwise; that’s why!</p>
 
             <p>After a few seconds of “detante” the Master of Ceremonies will indicate that the event is officially “on”. Once the event is started, riders can not “dab” or place any part of their body or an extension of their body on the ground. Only their bike’s tires are allowed on the ground. The goal is to now force your competitors to “dab”, but using various strategies. For example; you could unexpectedly jam on your brakes, causing the person behind you to “dab”. You could “merge” into the person alongside of you. You could accelerate and weave between slower riders causing them to become unnerved. So many options!</p>
 

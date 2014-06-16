@@ -63,7 +63,7 @@
             <p><b><a href="timetrial.php">Time Trial</a></b> – Approx 18 miles of fast, rolling, Susquehanna river side, out-and-back riding.</p>
             <p><b><a href="cyclocrossraces.php">Cyclocross</a></b> – All the crazy adventure that you know and love about cyclocross.</p>
             <p><b><a href="crit.php">Criterium</a></b> – Small track road racing. Fast speeds. Lots of leaning into turns. Fan friendly!</p>
-           <p><b><a href="granfondo.php">Gran Fondo</a></b> – Average the highest score in three of these events and be crowned as the “Gran Fondo Winner”.</p>
+           <p><b><a href="omnium.php">Omnium</a></b> – Average the highest score in three of these events and be crowned as the <a href="http://www.rivertownscyclingclassic.com/roadomnium.php" target="_blank">“King and Queen of the road”</a>.</p>
 
             <p><b><a href="montour.php">The Mon-Tour</a></b> and <b><a href="minimontour.php">Mini-Mon-tour</a></b> , start fast with a ride down Market street in Danville to Mill street. After those first 2.5 of these courses; the picnic ends! Bald top road will be the first reality check. The course will next take you over ridges, through the flat farm land of the western sections of Montour County and then back up the ridges of Norhern Montour County. The ride back towards town will be filled with beautiful roads and challenging terrain.</p>
 
@@ -78,7 +78,7 @@
             <p><b><a href="hillclimb.php">Hill Climb</a></b> – See who can make it the furthest up the hill. No one cleans this hill.</p>
             <p><b><a href="#">Trials Competiton</a></b> – The crazy stuff you see on TV. Riding on all kinds of nonsense.</p>
             <p><b><a href="cyclocrossraces.php">Cyclocross</a></b> – Crazy, fast, fun, muddy, cyclocross!</p>
-            <p><b><a href="granfondo.php">Gran Fondo</a></b> – Average the best times at three of the Mountain biking events, and you will be the Gran Fondo champion!</p>
+            <p><b><a href="omnium.php">Omnium</a></b> – Average the best times at three of the Mountain biking events, and you will be the <a href="http://www.rivertownscyclingclassic.com/mountainomnium.php" target="_blank">“Dirt Diety”</a></p>
             <br />
 
             <!-- EXPO AREA EVENTS – Fun stuff, for no good reason -->
@@ -100,9 +100,9 @@
 
             <!-- EXPO, DEMOS and VENDORS -->
             <h2>Expo, Demos and Vendors</h2>
-            <p>There WILL NOT BE FREE T-shirts for pre-registrants. Instead, we will give each registrant a “voucher” for $5.00 with each race you enter. There will be a variety of shirts offered through out Vendors, and you can get a shirt (or gear, or food, or anything else) using the vouchers. We feel this is a much better system.</p>
+            <p>There WILL NOT BE FREE T-shirts for pre-registrants. Instead, we will give each registrant a <a href="http://www.rivertownscyclingclassic.com/vouchers.php" target="_blank">“voucher”</a> for $5.00 with each race you enter. There will be a variety of shirts offered through out Vendors, and you can get a shirt (or gear, or food, or anything else) using the <a href="http://www.rivertownscyclingclassic.com/vouchers.php" target="_blank">vouchers</a>. We feel this is a much better system.</p>
 
-            <p>We will have all kinds of gear available for your review. Manufacturer demo trucks will be on site, and will be announced in upcoming months.This fully supported weekend of events. Courses will be well marked with water and facilities available along the route. There will be food, prizes, gear, entertainment, crazy contests and an award ceremony/party at the EXPO area all day and into the night!</p>
+            <p>We will have all kinds of gear available for your review. Manufacturer demo trucks will be on site, and will be announced in upcoming months.This fully supported weekend of events. Courses will be well marked with water and facilities available along the route. There will be food, prizes, gear, entertainment, crazy contests and an award ceremony/party at the <a href="http://www.rivertownscyclingclassic.com/expo.php" target="_blank">EXPO area</a> all day and into the night!</p>
          </div>
       </div>
    </div>

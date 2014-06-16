@@ -30,8 +30,8 @@
 <div class="race-hero">
    <div class="container">
       <div class="frame">
-         <a href="img/Cyclocross/Metso/Race-map.png" data-imagelightbox="c">
-            <img src="img/Cyclocross/Metso/Hero.png" alt="Metso Cyclocross Race"/>
+         <a href="img/Cyclocross/BoneshakerCX/Race-Map.png" data-imagelightbox="c">
+            <img src="img/Cyclocross/BoneshakerCX/Hero.png" alt="BoneShaker CX"/>
          </a>
          <p>Click the image to view the race map</p>
       </div>

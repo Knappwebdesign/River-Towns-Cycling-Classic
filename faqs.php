@@ -52,6 +52,8 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
+            <h2>Updates about the race</h2>
+            <p>We will be posting any changes to the RTCC on this page and on the Facebook page. Please check both FREQUENTLY on the days leading into the race.</p>
             <h2>Swag</h2>
             <p>Throughout the race, we will be distributing swag from our sponsors. All registrants get a $5.00 voucher towards any merchandise offered in either the EXPO area, or the Fall Arts Festival Event in Danville. Door prizes and a Raffle will be ongoing at the EXPO Area over the entire weekend.</p>
             <br>

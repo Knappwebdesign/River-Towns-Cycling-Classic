@@ -31,7 +31,7 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <img src="img/Granfondo/Mountain.png" alt="Mountain Granfondo"/>
+            <img src="img/Omnium/Mountain.png" alt="Mountain Omnium"/>
          </div>
       </div>
    </div>

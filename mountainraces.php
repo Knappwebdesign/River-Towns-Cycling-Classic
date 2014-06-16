@@ -52,7 +52,7 @@
             </div>
             <!-- Hill Climb -->
             <div class="bit-3">
-               <a href="hillclimb.php"><h2>Hill Climb</h2></a>
+               <a href="hillclimb.php"><h2>Hess Field Hill Climb</h2></a>
                <a href="hillclimb.php"><img src="img/Mountain/Races/Hillclimb.png" alt="Hill Climb Mountain Bike Race" /></a>
             </div>
             <!-- Mountain Rides -->

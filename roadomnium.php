@@ -31,7 +31,7 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <img src="img/Granfondo/Road.png" alt="Road Granfondo"/>
+            <img src="img/Omnium/Road.png" alt="Road Omnium"/>
          </div>
       </div>
    </div>
@@ -41,7 +41,7 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <p>The races in this “package” were selected because technically, they could all be completed using one road bicycle. Is one road bike the best equipment to use for all three races? Hell no! But can it be done with some success? You bet’cha! Happens all the time in Central PA! Organizers have time trails scheduled for a good part of Saturday. This means that you can show up and race with some flexibility. Time trial participants that are participating in the “Fondo” package will be given early starting times, so that there are no conflicts with the Criterium event later in the day. The only thing you MUST do, is be at the starting line for the MON-TOUR race at the starting time.</p>
+            <p>The races in this “package” were selected because technically, they could all be completed using one road bicycle. Is one road bike the best equipment to use for all three races? Hell no! But can it be done with some success? You bet’cha! Happens all the time in Central PA! Organizers have time trails scheduled for a good part of Saturday. This means that you can show up and race with some flexibility. Time trial participants that are participating in the “Omnium” package will be given early starting times, so that there are no conflicts with the Criterium event later in the day. The only thing you MUST do, is be at the starting line for the MON-TOUR race at the starting time.</p>
          </div>
       </div>
    </div>
