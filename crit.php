@@ -53,22 +53,22 @@
       <div class="frame">
          <div class="bit-1">
             <p>A Criterium (or “Crit”, for short) takes place on a relatively small, loop section of road. Criterium is basically NASCAR for bicycles (you make all right turns). What is great about Criterium is that it is UNMATCHED in regard to a “fan friendly” event. Instead of just seeing the riders at the start (like a road race) you can see the riders for the entire length of the course. And it’s fast. Really fast and really a lot of turning and accelerating. When performed at the higher categories of racers, it really a thing of beauty. Lots of strategy and tactics to either win the race yourself or get your team member onto the podium.</p>
-            <p>The Criterium is part of the River Towns Race Series. The River Towns race series is a cross discipline series of running, triathlon and cycling events. Please feel free to use the links provided to find out more about the series! There are also USA Cycling points available to racers that chose the “sanctioned” race choices.</p>
+            <p>The Criterium is part of the <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series</a>. The River Towns race series is a cross discipline series of running, triathlon and cycling events. Please feel free to use the links provided to find out more about the series! There are also USA Cycling points available to racers that chose the “sanctioned” race choices.</p>
          </div>
          <div class="bit-1">
             <h2>Categories</h2>
             <p>
             <b>5 categories</b><br>
-            <b>11 Age groups</b> – as part of the River Towns Race series
+            <b>11 Age groups</b> – as part of the <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series</a>
             </p>
          </div>
          <div class="bit-1">
             <h2>Support</h2>
-            <p>These races will be fully supported. SAG support for the Time Trial if needed. We will have mechanics down the road at the Expo area. Bathroom facilities, Food, Drink and parking all available at the Start locations. Geisinger Sports Medicine will provide dedicated medical staff, in the event that any medical help is needed. The time trial will be chip timed.</p>
+            <p>These races will be fully supported. SAG support for the Time Trial if needed. We will have mechanics down the road at the <a href="http://rivertownscyclingclassic.com/expo.php" target="_blank">Expo area</a>. Bathroom facilities, Food, Drink and parking all available at the Start locations. <a href="http://www.geisingersportsmed.com/" target="_blank">Geisinger Sports Medicine</a> will provide dedicated medical staff, in the event that any medical help is needed. The time trial will be chip timed.</p>
          </div>
          <div class="bit-1">
             <h2>Awards</h2>
-            <p>Because this is a River Towns Race Series race, riders will be awarded points toward the series based on our 11 age groups. There will be an awards ceremony for top three finishers in the Mens, Womens, and Teams categories of each category race. Sanctioned racers will receive their points towards category classifications. Teams will receive a cash prize (to be determined based in participation).</p>
+            <p>Because this is a <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series</a>, riders will be awarded points toward the series based on our 11 age groups. There will be an awards ceremony for top three finishers in the Mens, Womens, and Teams categories of each category race. Sanctioned racers will receive their points towards category classifications. Teams will receive a cash prize (to be determined based in participation).</p>
          </div>
       </div>
    </div>

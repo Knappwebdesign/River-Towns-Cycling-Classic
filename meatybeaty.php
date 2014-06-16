@@ -63,11 +63,11 @@
          </div>
          <div class="bit-1">
             <h2>Support</h2>
-            <p>This race will be fully supported. We will have mechanics on site, bathroom facilities, Food, Drink and parking all available within walking distance of the Start location. Geisinger Sports Medicine will provide dedicated medical staff, in the event that any medical help is needed. The Expo area and event parking is within walking distance of this event, so we expect good spectator participation.</p>
+            <p>This race will be fully supported. We will have mechanics on site, bathroom facilities, Food, Drink and parking all available within walking distance of the Start location. <a href="http://www.geisingersportsmed.com/" target="_blank">Geisinger Sports Medicine</a> will provide dedicated medical staff, in the event that any medical help is needed. The <a href="http://www.rivertownscyclingclassic.com/expo.php" target="_blank">Expo area</a> and event parking is within walking distance of this event, so we expect good spectator participation.</p>
          </div>
          <div class="bit-1">
             <h2>Awards</h2>
-            <p>Because this is a River Towns Race Series race, riders will be awarded points toward the series based on our 11 age groups.Because this is a Central PA Cyclocross. race, riders will also be awarded proper points toward that series as well.We will also offer trophies to the top three men and woman riders in both skill categories (Beginner and Open).</p>
+            <p>Because this is a <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series race</a>, riders will be awarded points toward the series based on our 11 age groups. Because this is a Central PA Cyclocross race, riders will also be awarded proper points toward that series as well. We will also offer trophies to the top three men and woman riders in both skill categories (Beginner and Open).</p>
          </div>
       </div>
    </div>

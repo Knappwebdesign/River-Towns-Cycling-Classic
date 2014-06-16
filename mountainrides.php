@@ -52,7 +52,7 @@
       <div class="frame">
          <div class="bit-1">
             <!-- General -->
-            <p>On Sunday the River Towns Cycling Classic will offer a full day of locally hosted Mountain rides. These rides will start Expo area at 8:00 a.m. They will officially end at 4:00 p.m., but no riders are required to stay with the Guided ride any longer than they would like or can handle. The rides will be divided into two parts: 8:00 a.m. to noon, and 1:00 p.m. until 4:00 p.m. with a one hour lunch break in between. The first portion of the ride will take place at the Geisinger Stewardship Forest in Danville, PA. There is no set routes, but know that the Geisinger forest is full of climbs and fast descents. Lots of smalllish rocks, and all sweet, sweet singletrack. We aren’t making set routes because we want your guides to be able to work with your group to deliver the best possible experience. The second half of the day will be spent at the “local secret” Weiser State forest trails. Our guides have ridden epic rides all over the united states, and we feel confident saying that these trails will stand up to any trails ANYWHERE we have ridden. Yes, they are that good!</p>
+            <p>On Sunday the River Towns Cycling Classic will offer a full day of locally hosted Mountain rides. These rides will start <a href="http://www.rivertownscyclingclassic.com/expo.php" target="_blank">Expo area</a> at 8:00 a.m. They will officially end at 4:00 p.m., but no riders are required to stay with the Guided ride any longer than they would like or can handle. The rides will be divided into two parts: 8:00 a.m. to noon, and 1:00 p.m. until 4:00 p.m. with a one hour lunch break in between. The first portion of the ride will take place at the Geisinger Stewardship Forest in Danville, PA. There is no set routes, but know that the Geisinger forest is full of climbs and fast descents. Lots of smalllish rocks, and all sweet, sweet singletrack. We aren’t making set routes because we want your guides to be able to work with your group to deliver the best possible experience. The second half of the day will be spent at the “local secret” Weiser State forest trails. Our guides have ridden epic rides all over the united states, and we feel confident saying that these trails will stand up to any trails ANYWHERE we have ridden. Yes, they are that good!</p>
 
             <p>Speaking of your guides, they will be representatives of local bicycle shops and riders and they will know all the best trails to ride for your group. Central PA people are known for their friendliness and pride in our community. The guides are always willing to adjust and share as much as they can about the countryside you are seeing and the trails you are enjoying.</p>
 
@@ -79,7 +79,7 @@
          </div>
          <div class="bit-1">
             <h2>Swag</h2>
-            <p>You get your $5.00 in River Towns Cycling Classic Voucher dollars to use as you see fit. Food, art, t-shirts, whatever you like as long as you spend it at the EXPO center or Fall Arts Festival or a Mill Street business of your choice.</p>
+            <p>You get your $5.00 in River Towns Cycling Classic <a href="http://www.rivertownscyclingclassic.com/vouchers.php" target="_blank">Voucher</a> dollars to use as you see fit. Food, art, t-shirts, whatever you like as long as you spend it at the <a href="http://www.rivertownscyclingclassic.com/expo.php" target="_blank">EXPO center</a> or Fall Arts Festival or a Mill Street business of your choice.</p>
          </div>
       </div>
    </div>

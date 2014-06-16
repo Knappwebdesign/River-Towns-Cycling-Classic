@@ -52,23 +52,23 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
-            <p>It really isn’t “mini” at all (it’s kind of an ironic false promise to lull rider into false bravery). In reality, the Mini Mon-tour is a Massive challenge! 49.2 miles of the same hills as the full Mon-tour (just less of them, and less milage). This is a good selection for the cyclist that wants sore legs at the end of the evening, but doesn’t want the exhaustion that accompanies the full Mon-Tour race. The Mini is a River Towns Race Series event.</p>
+            <p>It really isn’t “mini” at all (it’s kind of an ironic false promise to lull rider into false bravery). In reality, the Mini Mon-tour is a Massive challenge! 49.2 miles of the same hills as the full <a href="http://rivertownscyclingclassic.com/montour.php" target="_blank">Mon-Tour</a> (just less of them, and less milage). This is a good selection for the cyclist that wants sore legs at the end of the evening, but doesn’t want the exhaustion that accompanies the full <a href="http://rivertownscyclingclassic.com/montour.php" target="_blank">Mon-Tour</a> race. The Mini is a <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series event</a>.</p>
          </div>
          <div class="bit-1">
             <h2>Categories</h2>
             <p>
                - Individuals<br>
                - 11 Age groups<br>
-               - River Towns Race Series points
+               - <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series points</a>
             </p>
          </div>
          <div class="bit-1">
             <h2 class="show">Support</h2>
-            <p>These races will be fully supported. SAG support for the entire race. A wheel drop/feed zone at mile 44 of the full Mon-Tour race. We will have mechanics on site, bathroom facilities, Food, Drink and parking all available within walking distance of the Start location. Geisinger Sports Medicine will provide dedicated medical staff, in the event that any medical help is needed. The Expo area and event parking is the Start location for this event, so we expect good spectator participation. The Micro, Mini, and Mon-tour Road races will each be chip timed.</p>
+            <p>These races will be fully supported. SAG support for the entire race. We will have mechanics on site, bathroom facilities, Food, Drink and parking all available within walking distance of the Start location. <a href="http://www.geisingersportsmed.com/" target="_blank">Geisinger Sports Medicine</a> will provide dedicated medical staff, in the event that any medical help is needed. The <a href="http://rivertownscyclingclassic.com/expo.php" target="_blank">Expo area</a> and event parking is the Start location for this event, so we expect good spectator participation. The Micro, Mini, and Mon-tour Road races will each be chip timed.</p>
          </div>
          <div class="bit-1">
             <h2>Awards</h2>
-            <p>Because this is a River Towns Race Series race, riders will be awarded points toward the series based on our 11 age groups. Because the Micro is a Central Susquehanna Cycling Series race, riders will also be awarded proper points toward that series as well. There will be finisher medals for all finishers of all three road races. There will be an awards ceremony for top three finishers in the Mens, Womens, and Teams categories of each race. Sanctioned racers will receive their points towards category classifications. Teams will receive the Mon-Tour cup, engraving of their team name and member racers, and a cash prize (to be determined based in participation).</p>
+            <p>Because this is a <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series</a>, riders will be awarded points toward the series based on our 11 age groups. There will be finisher medals for all finishers of all three road races. There will be an awards ceremony for top three finishers in the Mens, Womens, and Teams categories of each race. Sanctioned racers will receive their points towards category classifications.</p>
          </div>
       </div>
    </div>

@@ -79,13 +79,13 @@ Mile 6 - Begins with a short climb, and then down, down, down, winding your way 
          <div class="bit-1">
             <h2>Support</h2>
             <br>
-            <p>This race will be fully supported. It will feature electronic chip timing, We will have mechanics on site, bathroom facilities, Food, Drink and parking all available within walking distance of the Start location. Geisinger Sports Medicine will provide dedicated medical staff, in the event that any medical help is needed.</p>
+            <p>This race will be fully supported. It will feature electronic chip timing, We will have mechanics on site, bathroom facilities, Food, Drink and parking all available within walking distance of the Start location. <a href="http://www.geisingersportsmed.com/" target="_blank">Geisinger Sports Medicine</a> will provide dedicated medical staff, in the event that any medical help is needed.</p>
          </div>
          <br>
          <div class="bit-1">
             <h2>Awards</h2>
             <br>
-            <p>Because this is a River Towns Race Series race, riders will be awarded points toward the series based on our 11 age groups.
+            <p>Because this is a <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series race</a>, riders will be awarded points toward the series based on our 11 age groups.
 Because this is a M.A.S.S. race, riders will also be awarded proper points toward the MASS series.<br><br>
 We will also offer trophies to the top three men and woman riders in the three race categories (Beginner, Intermediate and Expert).</p>
          </div>

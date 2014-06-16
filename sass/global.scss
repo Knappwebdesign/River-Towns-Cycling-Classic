@@ -48,6 +48,7 @@ html, body {
 
 }
 
+
 //////////////////////////////////////
 // Contact Bar
 //////////////////////////////////////
@@ -303,6 +304,7 @@ header {
       a {
 
          color: $orange;
+         text-decoration: none;
 
       }
    }
@@ -384,7 +386,7 @@ header {
 
       @include content;
       text-align: center;
-      
+
    }
 
 }

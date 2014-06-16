@@ -58,24 +58,6 @@
             <h2>Entertainment</h2>
             <p>A mixture of live and DJ’ed music will be playing throughout the weekend in the Expo area across the street from the MetsoCross venue. Couple that with “silly bike games” happening each half-hour at the Expo area: and how much more entertainment could you ask for? We’ll be doing things like trials demonstrations, Bicycle tug of war, Bicycle demolition derby, Kids races, Log pull, Huffy toss, Wheelie competitions and much, much more!</p>
          </div>
-         <div class="bit-1">
-            <h1>Using Active Works to register</h1>
-            <p>Registering for just one race is easy with Active.com. Just select the race you want, register and check out. Easy.<br>
-            Registering for multiple races is more difficult on Active.com because it is not set-up like a shopping cart, and does not allow participants to register for multiple categories of races at one time. HOWEVER… there is a work around solution. Just follow these simple instructions below:</p>
-
-         <p>&bull; Go to the ( Active.com ) Registration page and enter your information.</p>
-
-         <p>&bull; Select the race or package of races that are of interest to you.</p>
-
-         <p>&bull; At this point, Active will take you to the check out window.</p>
-
-         <p>&bull; On the Check out window, you will be given a option to “register someone else”. Select “yes”, you do want to register someone else.</p>
-
-         <p>&bull; Now re-enter your own information, and select another race that is of interest to you. You can do this multiple times.</p>
-
-         <p>&bull; When you are registered for all the races of interest to you, proceed to check-out and pay for your selections all at once.</p>
-
-         <p><b>NOTE</b> – We will also be adding Bike Reg registration shortly.</p>
       </div>
    </div>
 </div>

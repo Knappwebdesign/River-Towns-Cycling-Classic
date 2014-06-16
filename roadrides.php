@@ -52,7 +52,7 @@
       <div class="frame">
          <div class="bit-1">
             <!-- General -->
-            <p>On Saturday the River Towns Cycling Classic will offer a full day of locally hosted road rides. These rides will start Expo area at 8:00 a.m. They will officially end at 4:00 p.m., but of course no riders are required to stay with the ride any longer than they would like. The rides will be divided into two parts: 8:00 a.m. to noon, and 1:00 p.m. until 4:00 p.m. with a one hour lunch break in between. The first portion of the ride will include less elevation gain than the second portion. There is no set route, but the routes will deviate from race routes. That way, you won’t have to worry about riding all the same roads on two different days. We aren’t making set routes because we want your guides to be able to work with your group to deliver the best possible experience.</p>
+            <p>On Saturday the River Towns Cycling Classic will offer a full day of locally hosted road rides. These rides will start <a href="http://rivertownscyclingclassic.com/expo.php" target="_blank">Expo area</a> at 8:00 a.m. They will officially end at 4:00 p.m., but of course no riders are required to stay with the ride any longer than they would like. The rides will be divided into two parts: 8:00 a.m. to noon, and 1:00 p.m. until 4:00 p.m. with a one hour lunch break in between. The first portion of the ride will include less elevation gain than the second portion. There is no set route, but the routes will deviate from race routes. That way, you won’t have to worry about riding all the same roads on two different days. We aren’t making set routes because we want your guides to be able to work with your group to deliver the best possible experience.</p>
 
             <p>Speaking of your guides, they will be representatives of local bicycle shops and they will know all the best roads to ride in the area. Central PA people are known for their friendliness and pride in our community. The guides are always willing to adjust and share as much as they can about the countryside you are seeing.</p>
 
@@ -81,7 +81,7 @@
          </div>
          <div class="bit-1">
             <h2>Swag</h2>
-            <p>You get your $5.00 in River Towns Cycling Classic Voucher dollars to use as you see fit. Food, art, t-shirts, whatever you like as long as you spend it at the EXPO center or Fall Arts Festival or a Mill Street business of your choice.</p>
+            <p>You get your $5.00 in River Towns Cycling Classic <a href="http://www.rivertownscyclingclassic.com/vouchers.php" target="_blank">Voucher</a> dollars to use as you see fit. Food, art, t-shirts, whatever you like as long as you spend it at the EXPO center or Fall Arts Festival or a Mill Street business of your choice.</p>
          </div>
       </div>
    </div>

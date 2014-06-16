@@ -2623,7 +2623,8 @@ header {
     .content p b {
       color: #cc6633; }
     .content p a {
-      color: #cc6633; }
+      color: #cc6633;
+      text-decoration: none; }
 
 .drop-down {
   width: 100%;
