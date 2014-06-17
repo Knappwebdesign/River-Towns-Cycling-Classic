@@ -43,7 +43,7 @@
          <div class="bit-1">
             <!-- Meaty Beaty -->
             <div class="bit-2">
-               <a href="roadomnium.php"><h2>King of the Road Omnium</h2></a>
+               <a href="roadomnium.php"><h2>King and Queen of the Road Omnium</h2></a>
                <a href="roadomnium.php"><img src="img/offerings/Road.png" alt="Road Bike races" /></a>
             </div>
             <!-- MetsoCross -->

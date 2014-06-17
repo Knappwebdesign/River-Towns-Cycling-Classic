@@ -40,7 +40,7 @@
                      <li><a href="roadraces.php">Road</a></li>
                      <li><a href="mountainraces.php">Mountain</a></li>
                      <li><a href="cyclocrossraces.php">Cyclocross</a></li>
-                     <li><a href="granfondo.php">Granfondo</a></li>
+                     <li><a href="omnium.php">Omnium</a></li>
                   </ul>
                </div>
                <div class="bit-3">
