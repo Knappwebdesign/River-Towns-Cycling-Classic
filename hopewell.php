@@ -62,8 +62,9 @@
             <br>
             <p><b>Mile 4</b> - You will drop out of the forest and onto an old abandoned road for your next climb. Once on the top of this hill, you will be met with a mixture of grassy meadows, old abandoned buildings, and twisting single-track trail. Then it’s back into the woods for a fast descent, and then a long, straight climb back out of the valley.</p>
             <br>
-            <p><b>Mile 5</b> - Catch your breath as the first half of this mile is relatively flat, ridge-top, single-track riding. The second half of mile begins your downhill fun! Fast, rolling, side-hill single-track will challenge your bike skills and your tolerance for speed.
-Mile 6 - Begins with a short climb, and then down, down, down, winding your way back to the start location and the beginning of your next lap.</p>
+            <p><b>Mile 5</b> - Catch your breath as the first half of this mile is relatively flat, ridge-top, single-track riding. The second half of mile begins your downhill fun! Fast, rolling, side-hill single-track will challenge your bike skills and your tolerance for speed.</p>
+
+            <p><b>Mile 6</b> - Begins with a short climb, and then down, down, down, winding your way back to the start location and the beginning of your next lap.</p>
          </div>
          <br>
          <div class="bit-1">
@@ -86,7 +87,7 @@ Mile 6 - Begins with a short climb, and then down, down, down, winding your way 
             <h2>Awards</h2>
             <br>
             <p>Because this is a <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series race</a>, riders will be awarded points toward the series based on our 11 age groups.
-Because this is a M.A.S.S. race, riders will also be awarded proper points toward the MASS series.<br><br>
+<br>
 We will also offer trophies to the top three men and woman riders in the three race categories (Beginner, Intermediate and Expert).</p>
          </div>
       </div>
