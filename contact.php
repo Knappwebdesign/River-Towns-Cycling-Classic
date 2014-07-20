@@ -31,7 +31,23 @@
    <div class="container">
       <div class="frame">
          <div class="bit-1">
+            <br /><br />
+            <h2>LITTLE KNOW CRED OF THE RTCC ORGANIZATIONAL TEAM:</h2>
+            <br /><br />
+            <p><b>Jesse Stauffer</b> - fresh off a 4th place finish in the Trans-Am bike race. Jesse is one of our road event Organizers.</p>
+
+            <p><b>Jared Festemacher</b> - Past overall winner of the 75 Miles of Mon-Tour brutal road race. Jared is another Road Race Organizer.</p>
+
+            <p><b>Brett Simpson</b> - 14th place finisher in last year's Tour Divide event. Brett is "not a specialist" and will be floating between road and mountain organizational tasks.</p>
+
+            <p><b>Matt McElroy</b> - Podium level Mountain bike racer and organizer of the Tour de Tykes mountain bike race (M.A.S.S. event). Matt will be lending his expertice to the Hopewell Classic MTB race.</p>
+
+            <p><b>David Decoteau</b> - Founder of the River Towns Race Series cross-dicipline series of Central PA amateur athletic races. David will be using his ADD and multitasking skills to bring the big picture together.</p>
+
+            <p>And this team is constantly consultiing with Enthusiasts, Shop owner, factory reps, other race organizers, clubs and individuals to endeavor to bring you the best celebration of cycling Central PA has ever seen!</p>
+            <br /><br />
             <h2>You can reach us below!</h2>
+            <br /><br />
             <p>
                <a href="mailto:Info@rivertowncyclingclassic.com?Subject=General%20Information%20Request" target="_blank">Questions about the Rivertown Cycling classic?</a>
             </p>

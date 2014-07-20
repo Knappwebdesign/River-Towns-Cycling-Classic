@@ -32,6 +32,9 @@
                <a href="hillclimb.php">Hess Field Hill Climb</a>
             </li>
             <li>
+               <a href="trials.php">Trials</a>
+            </li>
+            <li>
                <a href="mountainrides.php">Mountain Rides</a>
             </li>
          </ul>

@@ -57,15 +57,25 @@
          </div>
          <div class="bit-1">
             <h2>Categories</h2>
-            <p>
-            <b>Citizen category</b> – 11 Age groups – <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series points</a>.<br>
-            <b>Sanctioned category</b> – 5 categories (see USA Cycling for category details).<br>
-            <b>Teams</b> – First team member across the line wins for the team (not a cumulative time event).
-            </p>
+               <p>We offer the following Sanctioned Races
+                  <ul style="float: left; margin-left: 120px; list-style: circle; line-height: 25px;">
+                     <li>Cat 1 & 2</li>
+                     <li>Cat 3 & 4</li>
+                     <li>Masters category</li>
+                     <li>Team category - The first team member across the line wins for the team (not a cumulative time event).</li>
+                  </ul>
+               </p>
+               <br><br>
+               <p style="Float: left; margin-left: 80px;">We also offer a <b>Citizen category</b> which has 11 Age groups and counts towards the <a href="www.RiverTownRace.com" target="_blank">River Towns Race Series points</a>.
+               <p>
+         </div>
+         <div class="bit-1">
+            <h2>Prize Purse</h2>
+            <p></p>
          </div>
          <div class="bit-1">
             <h2>Support</h2>
-            <p>These races will be fully supported. SAG support for the entire race. A wheel drop/feed zone at mile 44 of the full Mon-Tour race. We will have mechanics on site, bathroom facilities, Food, Drink and parking all available within walking distance of the Start location. <a href="http://www.geisingersportsmed.com/" target="_blank">Geisinger Sports Medicine</a> will provide dedicated medical staff, in the event that any medical help is needed. The <a href="http://rivertownscyclingclassic.com/expo.php" target="_blank">Expo area</a> and event parking is the Start location for this event, so we expect good spectator participation. The Micro, Mini, and Mon-tour Road races will each be chip timed.</p>
+            <p>These races will be fully supported. SAG support for the entire race. A wheel drop/feed zone at mile 40 (mon-tour preserve) and at mile 67 (the corner of Rt.11 and Grovania). We will have mechanics on site, bathroom facilities, Food, Drink and parking all available within walking distance of the Start location. <a href="http://www.geisingersportsmed.com/" target="_blank">Geisinger Sports Medicine</a> will provide dedicated medical staff, in the event that any medical help is needed. The <a href="http://rivertownscyclingclassic.com/expo.php" target="_blank">Expo area</a> and event parking is the Start location for this event, so we expect good spectator participation. The Micro, Mini, and Mon-tour Road races will each be chip timed.</p>
          </div>
          <div class="bit-1">
             <h2>Awards</h2>

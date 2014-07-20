@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en" class="no-js">
    <head>
-      <title>Rivertowns Cylcing Classic</title>
+      <title>Rivertowns Cycling Classic</title>
       <meta name="description" content="The First annual Rivertowns Cycling Classic will take place Spetember 6th & 7th, 2014.">
       <meta name="robots" content="all">
       <meta name="author" content="Brandon Knapp @bknapp462, Brandon@knappwebdesign.net, knappwebdesign.net">

@@ -57,18 +57,16 @@
             <br/>
             <!-- ROAD CYCLING EVENTS -->
             <h2>Road Cycling Events</h2>
-            <p><b><a href="montour.php">Mon-Tour</a></b> – 81.83 miles of brutal hills and rolling countryside. (sanctioned or citizen).</p>
-            <p><b><a href="minimontour.php">Mini-Mon-Tour</a></b> – 49.2 miles of generally the same roads. (Citizen race)</p>
-            <p><b><a href="micromontour.php">Micro-Mon-Tour</a></b> – 21.7 miles of some of the same roads. (Central Susquehanna Cycling Series race)</b>
+            <p><b><a href="montour.php">The Mon-Tour</a></b> and <b><a href="minimontour.php">Mini-Mon-tour</a></b> , start fast with a ride down Market street in Danville to Mill street. After those first 2.5 of these courses; the picnic ends! Bald top road will be the first reality check. The course will next take you over ridges, through the flat farm land of the western sections of Montour County and then back up the ridges of Norhern Montour County. The ride back towards town will be filled with beautiful roads and challenging terrain.</p>
+         <p><b><a href="micromontour.php">The Micro-Mon-Tour</a></b> is NEW in 2014, and is part of the three race local series called the Central Susqueahnna Cycling Series race. The other two races in that series are the Milton Harvest Festival Race and the Sunbury YMCA race. The Micro-Mon-Tour gives a taste of the larger rides, but in a shorter, friendlier format. Great for people interested in the flavor of the Mon-Tour, without all the punishment.</p>
             <p><b><a href="timetrial.php">Time Trial</a></b> – Approx 18 miles of fast, rolling, Susquehanna river side, out-and-back riding.</p>
             <p><b><a href="cyclocrossraces.php">Cyclocross</a></b> – All the crazy adventure that you know and love about cyclocross.</p>
             <p><b><a href="crit.php">Criterium</a></b> – Small track road racing. Fast speeds. Lots of leaning into turns. Fan friendly!</p>
            <p><b><a href="omnium.php">Omnium</a></b> – Average the highest score in three of these events and be crowned as the <a href="http://www.rivertownscyclingclassic.com/roadomnium.php" target="_blank">“King and Queen of the road”</a>.</p>
+           <p><b><a href="https://events.geisinger.org/eventdetails.cfm?id=2276&d=3" target="_blank">Miracles for Miles</a></b> – The ride will be a flat, approximately 14-mile trip beginning at the Iron Town Commerce Center in Danville, going to the Legion Road
+turn-around point near Catawissa and returning to Iron Town Commerce Center.</p>
 
-            <p><b><a href="montour.php">The Mon-Tour</a></b> and <b><a href="minimontour.php">Mini-Mon-tour</a></b> , start fast with a ride down Market street in Danville to Mill street. After those first 2.5 of these courses; the picnic ends! Bald top road will be the first reality check. The course will next take you over ridges, through the flat farm land of the western sections of Montour County and then back up the ridges of Norhern Montour County. The ride back towards town will be filled with beautiful roads and challenging terrain.</p>
-
-            <p><b><a href="micromontour.php">The Micro-Mon-Tour</a></b> is NEW in 2014, and is part of the three race local series called the Central Susqueahnna Cycling Series race. The other two races in that series are the Milton Harvest Festival Race and the Sunbury YMCA race. The Micro-Mon-Tour gives a taste of the larger rides, but in a shorter, friendlier format. Great for people interested in the flavor of the Mon-Tour, without all the punishment.</p>
-            <br />
+            <br>
 
             <!-- MOUNTAIN BIKE EVENTS -->
             <h2>Mountain Bike Events</h2>

@@ -258,6 +258,7 @@ header {
    height: auto;
    margin: 0 auto;
 
+
    h1 {
 
       @include main-font-header;
@@ -307,7 +308,9 @@ header {
          text-decoration: none;
 
       }
+
    }
+
 }
 
 
@@ -527,7 +530,7 @@ footer {
 
          a {
 
-            color: #cc6633;
+            color: $orange;
          }
          a:link {
 
